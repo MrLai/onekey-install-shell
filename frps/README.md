@@ -1,4 +1,4 @@
-Copy-form
+Copy-from
 ===========
 ##[clangcn](https://github.com/clangcn/onekey-install-shell)
 
